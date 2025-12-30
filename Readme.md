@@ -9,4 +9,6 @@ Eu estou melhorando no git, estou conseguindo versionar o código e subindo no g
 Eu estou modificando novamente o git
 
 Eu estou alterando esse arquivo novamente
+Mudei o git novemante
+Eu consigo
 
